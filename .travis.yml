@@ -1,4 +1,4 @@
-labguage: node_js
+labguage: generic
 sudo: required
 services:
   - docker
